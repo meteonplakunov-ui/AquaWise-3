@@ -1,5 +1,4 @@
-<details>
-<summary>export const ASSETS = {
+export const ASSETS = {
     heroGarden: "/main-photo.jpg", 
     gallery: [
         "/gallery1.jpg",
@@ -121,4 +120,3 @@ export const translations = {
         goBack: "Επιστροφή"
     }
 };
-</summary>

@@ -26,6 +26,8 @@
 	},
 	"dependencies": {
 		"@tailwindcss/vite": "^4.2.2",
+		"cobe": "^2.0.1",
+		"code": "^5.2.4",
 		"lucide-svelte": "^1.0.1"
 	}
 }
