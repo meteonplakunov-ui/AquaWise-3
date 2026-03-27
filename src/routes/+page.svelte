@@ -69,22 +69,22 @@
       journeyText2: "Εκτότε, το σύστημα έχει εξελιχθεί σε μια ισχυρή πλατφόρμα έξυπνης άρδευσης, με επιτυχία παρουσιάστηκε σε πολλούς διαγωνισμούς, συμπεριλαμβανομένων του Scyence Fair, του διαγωνισμού Frederick-EU Conexus και του Cyprus Final του Stockholm Junior Water Prize 2025.",
       heroBadge: "Το μέλλον της διαχείρισης πόρων", heroTitle: "Έξυπνη Άρδευση", getStarted: "Ξεκινήστε", howItWorksBtn: "Πώς λειτουργεί?!",
       howItWorksTitle: "Πώς λειτουργεί το AquaWise;", howItWorksP1: "1. Συλλογή Δεδομένων: Αισθητήρες υγρασίας και δεδομένα καιρού (API) συλλέγουν πληροφορίες σε πραγματικό χρόνο.",
-      howItWorksP2: "2. Επεξεργασία: Το σύστημα αναλύει τα δεδομένα χρησιμοποιώντας έξυπνους αλγορίθμους.", howItWorksP3: "3. Αυτοματισμός: Ενεργοποιεί τις αντλίες νερού μόνο όταν η υγρασία είναι χαμηλή и δεν προβλέπεται βροχή.",
-      howItWorksP4: "4. Ειδοποιήσεις: Ο χρήστης λαμβάνει ειδοποιήσεις и αναλυτικές αναφορές.", whoWeAreTitle: "Ποιοι Είμαστε",
-      whoWeAreP1: "Το AquaWise είναι μια καινοτόμος εταιρεία έξυπνης άρδευσης που δημιουργήθηκε για να αντιμετωπίσει τη λειψυδρία и να προωθήσει τη βιώσιμη διαχείριση των πόρων.",
-      whoWeAreP2: "Το σύστημα ενσωματώνει αισθητήρες υγρασίας εδάφους, δεδομένα καιρού σε πραγματικό χρόνο и έξυπνο αυτοματισμό για την παροχή ακριβούς άρδευσης μόνο όταν χρειάζεται.",
-      whoWeAreP3: "Στόχος μας είναι να ελαχιστοποιήσουμε τη σπατάλη νερού, να ενισχύσουμε τη γεωργική αποδοτικότητα и να υποστηρίξουμε τις κοινότητες στην υιοθέτηση λύσεων διαχείρισης νερού με βάση τα δεδομένα.",
+      howItWorksP2: "2. Επεξεργασία: Το σύστημα αναλύει τα δεδομένα χρησιμοποιώντας έξυπνους αλγορίθμους.", howItWorksP3: "3. Αυτοματισμός: Ενεργοποιεί τις αντλίες νερού μόνο όταν η υγρασία είναι χαμηλή και δεν προβλέπεται βροχή.",
+      howItWorksP4: "4. Ειδοποιήσεις: Ο χρήστης λαμβάνει ειδοποιήσεις και αναλυτικές αναφορές.", whoWeAreTitle: "Ποιοι Είμαστε",
+      whoWeAreP1: "Το AquaWise είναι μια καινοτόμος εταιρεία έξυπνης άρδευσης που δημιουργήθηκε για να αντιμετωπίσει τη λειψυδρία και να προωθήσει τη βιώσιμη διαχείριση των πόρων.",
+      whoWeAreP2: "Το σύστημα ενσωματώνει αισθητήρες υγρασίας εδάφους, δεδομένα καιρού σε πραγματικό χρόνο και έξυπνο αυτοματισμό για την παροχή ακριβούς άρδευσης μόνο όταν χρειάζεται.",
+      whoWeAreP3: "Στόχος μας είναι να ελαχιστοποιήσουμε τη σπατάλη νερού, να ενισχύσουμε τη γεωργική αποδοτικότητα και να υποστηρίξουμε τις κοινότητες στην υιοθέτηση λύσεων διαχείρισης νερού με βάση τα δεδομένα.",
       whoWeAreP4: "Συνδυάζοντας την τεχνολογία με τις περιβαλλοντικές γνώσεις, το AquaWise διασφαλίζει ότι κάθε σταγόνα μετράει.", historyCardTitle: "Ιστορία",
-      historyCardText: "Αυτό το έργο ξεκίνησε με κάτι βαθιά προσωπικό. Ένα καλοκαίρι, επισκέφθηκα το χωράφι πατάτας του παππού μου. Τα φύλλα ήταν κίτρινα и ξηρά. Τον ρώτησα: 'Γιατί δεν τα ποτίζεις;' Μου είπε: 'Δεν έχουμε αρκετό νερό. Ούτε για τις ρίζες.' Μερικές μέρες αργότερα, περάσα κοντά στο ποτάμι Πεδιαίος κοντά στο σχολείο μας. Αυτό που ήταν ποτέ ένα ευδοκιμούν οικοσύστημα, ήταν πλέον εντελώς ξηρό. Στην Κύπρο, οι περικοπές νερού είναι συνηθισμένες и κατά τη διάρκεια μιας πρόσφατης μεγάλης πυρκαγιάς, οι άνθρωποι δεν είχαν καν νερό για να βοηθήσουν να σβήσουν τις φλόγες. Αλλά δεν είναι μόνο τοπικό. Παγκοσμίως, η γεωργία χρησιμοποιεί το 70% όλου του γλυκού νερού, ωστόσο τα περισσότερα αγροκτήματα εξακολουθούν να βασίζονται στην χειροκίνητη άρδευση ή στα χρονόμετρα.",
+      historyCardText: "Αυτό το έργο ξεκίνησε με κάτι βαθιά προσωπικό. Ένα καλοκαίρι, επισκέφθηκα το χωράφι πατάτας του παππού μου. Τα φύλλα ήταν κίτρινα και ξηρά. Τον ρώτησα: 'Γιατί δεν τα ποτίζεις;' Μου είπε: 'Δεν έχουμε αρκετό νερό. Ούτε για τις ρίζες.' Μερικές μέρες αργότερα, περάσα κοντά στο ποτάμι Πεδιαίος κοντά στο σχολείο μας. Αυτό που ήταν ποτέ ένα ευδοκιμούν οικοσύστημα, ήταν πλέον εντελώς ξηρό. Στην Κύπρο, οι περικοπές νερού είναι συνηθισμένες και κατά τη διάρκεια μιας πρόσφατης μεγάλης πυρκαγιάς, οι άνθρωποι δεν είχαν καν νερό για να βοηθήσουν να σβήσουν τις φλόγες. Αλλά δεν είναι μόνο τοπικό. Παγκοσμίως, η γεωργία χρησιμοποιεί το 70% όλου του γλυκού νερού, ωστόσο τα περισσότερα αγροκτήματα εξακολουθούν να βασίζονται στην χειροκίνητη άρδευση ή στα χρονόμετρα.",
       historyTitle: "Τοπικό Πρόβλημα, Παγκόσμια Λύση", historyText: "Εμπνευσμένοι από την κοίτη του ποταμού Πεδιαίου στην Κύπρο, δημιουργήσαμε το AquaWise κατά της λειψυδρίας.",
-      missionTitle: "Η Αποστολή μας", missionText: "Η αποστολή μας είναι να μεταμορφώσουμε την παραδοσιακή άρδευση σε μια ευφυή διαδικασία που βασίζεται σε δεδομένα. Το AquaWise διασφαλίζει ότι το νερό εφαρμόζεται μόνο όταν η υγρασία του εδάφους είναι χαμηλή и δεν αναμένεται βροχή, μεγιστοποιώντας την απόδοση и προωθώντας τη βιωσιμότητα.",
+      missionTitle: "Η Αποστολή μας", missionText: "Η αποστολή μας είναι να μεταμορφώσουμε την παραδοσιακή άρδευση σε μια ευφυή διαδικασία που βασίζεται σε δεδομένα. Το AquaWise διασφαλίζει ότι το νερό εφαρμόζεται μόνο όταν η υγρασία του εδάφους είναι χαμηλή και δεν αναμένεται βροχή, μεγιστοποιώντας την απόδοση και προωθώντας τη βιωσιμότητα.",
       missionList: ["Ελαχιστοποίηση της περιττής κατανάλωσης νερού.", "Αύξηση της αγροτικής παραγωγικότητας.", "Υποστήριξη της βιώσιμης διαχείρισης πόρων.", "Ενεργοποίηση έξυπνων, αυτοματοποιημένων αποφάσεων άρδευσης."],
-      inspirationTitle: "Η έμπνευση του ονόματος и του λογοτύπου μας", inspirationText: "Το όνομα AquaWise εμπνεύστηκε από την ιδέα της χρήσης νερού όχι μόνο αποδοτικά, αλλά έξυπνα. Το 'Aqua' αντιπροσωπεύει την εστίαση του συστήματος στη βιώσιμη διαχείριση νερού, ενώ το 'Wise' αντανακλά τη λήψη έξυπνων αποφάσεων η οποία προωθείται από δεδομένα и μηχανική μάθηση σε πραγματικό χρόνο. То λογότυπο συμβολίζει την αρμονία μεταξύ τεχνολογίας и φύσης: μια σταγόνα νερού με καθαρές, σύγχρονες γραμμές που αντιπροσωπεύουν ακρίβεια и στοιχεία που μοιάζουν με ολοκληρωμένα κυκλώματα για να τονίσουν τον έξυπνο πυρήна του συστήματος.",
-      monitoringTitle: "Παρακολούθηση Παραγωγής & Σύστημα Προσαρμογής Ορίων", monitoringText: "То AquaWise ενσωματώνει ένα έξυπνο Σύστημα Προσαρμογής Ορίων που συνεχώς παρακολουθεί την άρδευση и την παραγωγή καλλιεργειών. Προσαρμόζοντας δυναμικά τα επίπεδα νερού, διασφαλίζει τη βέλτιστη υγρασία του εδάφους и μεγιστοποιεί την απόδοση της καλλιέργειας, βοηθώντας τους αγρότες и τους διαχειριστές των έργων να εξοικονομήσουν νερό ενώ βελτιώνουν την παραγωγικότητα.",
-      monitoringDetails: "Οι χρήστες λαμβάνουν ειδοποιήσεις ηλεκτρονικού ταχυδρομείου σε πραγματικό χρόνο κάθε φορά που τα όρια υπερβαίνονται ή συμβαίνουν προσαρμογές. Η λεπτομερής ιστορία άρδευσης καταγράφεται σε αρχεία CSV и HTML, παρέχοντας πλήρη δυνατότητα ανίχνευσης и ανάλυσης προηγούμενων κύκλων ποτίσματος и του αντίκτυπού τους στην απόδοση της καλλιέργειας.",
-      futureText: "Μέσω του ιστότοπου AquaWise, οι χρήστες μπορούν να παρακολουθούν ζωντανά κατάσταση του συστήματος, συνθήκες εδάφους и απόδοση άρδευσης, и να προσαρμόσουν απομακρυσμένα τα όρια για τις καλλιέργειες ή τους κήπους τους. Στο εγγύς μέλλον, η ένταξη κάμερας θα επιτρέψει την οπτική επιτήρηση и την προηγμένη αυτοματοποίηση, προσθέτοντας ένα επιπλέον επίπεδο ακρίβειας и ελέγχου για τη βέλτιστη παραγωγή καλλιεργειών.",
-      partnershipsTitle: "Συνεργασίες", partnershipsText: "То AquaWise έχει εξελιχθεί από ένα πρωτότυπο έρευνας σε μια ισχυρή, έτοιμη για την αγορά λύση έξυπνης άρδευσης, ενισχυμένη από στρατηγικές συνεργασίες με πολλούς φορείς и οργανισμούς. Στο Λύκειο Αγίου Γеωργίου στη Λακατάμια, το AquaWise έχει εφαρμοστεί στο σχολικό κήπο, επιτρέποντας μας να δοκιμάσουμε το σύστημα σε ένα ελεγχόμενο εκπαιδευτικό περιβάλλον. Παράλληλα, συνεργαστήκαμε με τον Δήμο Λακατάμιας, εγκαθιστώντας το AquaWise σε δημόσια πάρκα. Η συνεργασία με το Тμήμα Мετεωρολογίας (DOM) στη Λευκωσία ήταν απαραίτητη για την ενσωμάτωση ακριβών δεδομένων. Επιπλέον, η συνεργασία μας με την Εταιρεία Ύδρευσης Λεμεσού μας επέτρεψε να ενσωματώσουμε επαγγελματική τεχνογνωσία. Συνεργαστήκαμε επίσης με то KOIOS (Πανεπιστήμιο Κύπρου), όπου ειδικοί επικύρωσαν την иνοτομία μας. Ήδη συνεργаζόμαστε με то Stockholm Water Foundation, το οποίο προωθεί την εταιρεία μας.",
-      socialTitle: "Мέσα κοινωνικής δικτύωσης", participant: "Συμμετέχων & Φιναλίστ", goBack: "Επιστροφή"
+      inspirationTitle: "Η έμπνευση του ονόματος και του λογοτύπου μας", inspirationText: "Το όνομα AquaWise εμπνεύστηκε από την ιδέα της χρήσης νερού όχι μόνο αποδοτικά, αλλά έξυπνα. Το 'Aqua' αντιπροσωπεύει την εστίαση του συστήματος στη βιώσιμη διαχείριση νερού, ενώ το 'Wise' αντανακλά τη λήψη έξυπνων αποφάσεων η οποία προωθείται από δεδομένα και μηχανική μάθηση σε πραγματικό χρόνο. Το λογότυπο συμβολίζει την αρμονία μεταξύ τεχνολογίας και φύσης: μια σταγόνα νερού με καθαρές, σύγχρονες γραμμές που αντιπροσωπεύουν ακρίβεια και στοιχεία που μοιάζουν με ολοκληρωμένα κυκλώματα για να τονίσουν τον έξυπνο πυρήνα του συστήματος.",
+      monitoringTitle: "Παρακολούθηση Παραγωγής & Σύστημα Προσαρμογής Ορίων", monitoringText: "Το AquaWise ενσωματώνει ένα έξυπνο Σύστημα Προσαρμογής Ορίων που συνεχώς παρακολουθεί την άρδευση και την παραγωγή καλλιεργειών. Προσαρμόζοντας δυναμικά τα επίπεδα νερού, διασφαλίζει τη βέλτιστη υγρασία του εδάφους και μεγιστοποιεί την απόδοση της καλλιέργειας, βοηθώντας τους αγρότες και τους διαχειριστές των έργων να εξοικονομήσουν νερό ενώ βελτιώνουν την παραγωγικότητα.",
+      monitoringDetails: "Οι χρήστες λαμβάνουν ειδοποιήσεις ηλεκτρονικού ταχυδρομείου σε πραγματικό χρόνο κάθε φορά που τα όρια υπερβαίνονται ή συμβαίνουν προσαρμογές. Η λεπτομερής ιστορία άρδευσης καταγράφεται σε αρχεία CSV και HTML, παρέχοντας πλήρη δυνατότητα ανίχνευσης και ανάλυσης προηγούμενων κύκλων ποτίσματος και του αντίκτυπού τους στην απόδοση της καλλιέργειας.",
+      futureText: "Μέσω του ιστότοπου AquaWise, οι χρήστες μπορούν να παρακολουθούν ζωντανά κατάσταση του συστήματος, συνθήκες εδάφους και απόδοση άρδευσης, και να προσαρμόσουν απομακρυσμένα τα όρια για τις καλλιέργειες ή τους κήπους τους. Στο εγγύς μέλλον, η ένταξη κάμερας θα επιτρέψει την οπτική επιτήρηση και την προηγμένη αυτοματοποίηση, προσθέτοντας ένα επιπλέον επίπεδο ακρίβειας και ελέγχου για τη βέλτιστη παραγωγή καλλιεργειών.",
+      partnershipsTitle: "Συνεργασίες", partnershipsText: "Το AquaWise έχει εξελιχθεί από ένα πρωτότυπο έρευνας σε μια ισχυρή, έτοιμη για την αγορά λύση έξυπνης άρδευσης, ενισχυμένη από στρατηγικές συνεργασίες με πολλούς φορείς και οργανισμούς. Στο Λύκειο Αγίου Γεωργίου στη Λακατάμια, το AquaWise έχει εφαρμοστεί στο σχολικό κήπο, επιτρέποντας μας να δοκιμάσουμε το σύστημα σε ένα ελεγχόμενο εκπαιδευτικό περιβάλλον. Παράλληλα, συνεργαστήκαμε με τον Δήμο Λακατάμιας, εγκαθιστώντας το AquaWise σε δημόσια πάρκα. Η συνεργασία με το Τμήμα Μετεωρολογίας (DOM) στη Λευκωσία ήταν απαραίτητη για την ενσωμάτωση ακριβών δεδομένων. Επιπλέον, η συνεργασία μας με την Εταιρεία Ύδρευσης Λεμεσού μας επέτρεψε να ενσωματώσουμε επαγγελματική τεχνογνωσία. Συνεργαστήκαμε επίσης με το KOIOS (Πανεπιστήμιο Κύπρου), όπου ειδικοί επικύρωσαν την καινοτομία μας. Ήδη συνεργαζόμαστε με το Stockholm Water Foundation, το οποίο προωθεί την εταιρεία μας.",
+      socialTitle: "Μέσα κοινωνικής δικτύωσης", participant: "Συμμετέχων & Φιναλίστ", goBack: "Επιστροφή"
     }
   };
 
@@ -107,7 +107,6 @@
   // === ПАСХАЛКА REIMU FUMO ===
   let logoClicks = $state(0);
   let showEasterEgg = $state(false);
-  // Таймеры для Фумо выносим наружу, чтобы можно было их очистить
   let subtitleTimer: any;
   let rapidInterval: any;
   let slowInterval: any;
@@ -134,14 +133,25 @@
   }
   const thresholdValue = 0.12;
 
+  // === РЕАКТИВНЫЙ КОНТРОЛЬ СКРОЛЛА (SVELTE 5) ===
+  $effect(() => {
+    if (typeof document !== 'undefined') {
+      if (siteVisible) {
+        document.body.style.overflowY = '';
+        document.body.style.touchAction = '';
+      } else {
+        document.body.style.overflowY = 'hidden';
+        document.body.style.touchAction = 'none';
+      }
+    }
+  });
+
   // === ЖИЗНЕННЫЙ ЦИКЛ ===
   onMount(() => {
-    // 1. Отключаем память браузера о прошлой прокрутке
     if ('scrollRestoration' in history) {
       history.scrollRestoration = 'manual';
     }
     
-    // 2. Гарантированно ставим страницу на самый верх (instant, чтобы убрать плавный скролл)
     window.scrollTo({ top: 0, behavior: 'instant' });
 
     const handleScroll = () => {
@@ -150,12 +160,10 @@
     };
     window.addEventListener('scroll', handleScroll, { passive: true });
 
-    // 3. Основные таймеры заставки
     const siteTimer = setTimeout(() => {
       siteVisible = true;
     }, 7600);
 
-    // Подзаголовок появляется чуть позже сайта
     subtitleTimer = setTimeout(() => {
       startSubtitleAnimation();
     }, 8300);
@@ -164,13 +172,11 @@
       showSplash = false;
     }, 11000);
 
-    // Функция очистки при уничтожении компонента
     return () => {
       window.removeEventListener('scroll', handleScroll);
       clearTimeout(siteTimer);
       clearTimeout(subtitleTimer);
       clearTimeout(splashTimer);
-      // Очистка интервалов Фумо
       if (rapidInterval) clearInterval(rapidInterval);
       if (slowInterval) clearInterval(slowInterval);
     };
@@ -182,7 +188,6 @@
     const phrases = dynamicPhrases;
     if (phrases.length < 2) return;
 
-    // Быстрая фаза анимации (перебор всех фраз)
     rapidInterval = setInterval(() => {
       phraseAnimClass = 'text-flip-out-fast';
       setTimeout(() => {
@@ -191,7 +196,6 @@
       }, 160);
       count++;
       
-      // После 10 фраз переходим к медленной фазе (рандом)
       if (count >= 10) {
         clearInterval(rapidInterval);
         
@@ -214,19 +218,19 @@
     const nextLang = lang === 'en' ? 'el' : 'en';
     targetLang = nextLang;
     isAnimatingLang = true;
-    flipPhase = 'out'; // Запускаем эффект перелистывания
+    flipPhase = 'out';
     await tick();
     
     setTimeout(() => {
       lang = nextLang;
-      flipPhase = 'in'; // Показываем новый язык
+      flipPhase = 'in';
       
       setTimeout(() => {
         isAnimatingLang = false;
         flipPhase = '';
         targetLang = null;
-      }, 480); // Длительность animation `pageFlipIn`
-    }, 420); // Длительность animation `pageFlipOut`
+      }, 480);
+    }, 420);
   }
 
   // === ГАЛЕРЕЯ КАРТИНОК ===
@@ -246,70 +250,62 @@
     setTimeout(() => isSlideTransitioning = false, 280);
   }
 
-  // Скрыть битую картинку в галерее
   function hideBrokenImage(event: Event) {
     const img = event.currentTarget as HTMLImageElement;
     img.style.display = 'none';
   }
 
   // === ЛОГИКА ПАСХАЛКИ FUMO ===
-  // Активируется при 5 быстрых кликах на логотип AquaWise
   function handleLogoClick(event: MouseEvent) {
     logoClicks++;
     if (logoClicks >= 5) {
-      event.preventDefault(); // Отменяем переход по ссылке, если она вела на главную
+      event.preventDefault();
       triggerEasterEgg();
-      logoClicks = 0; // Сброс счетчика
+      logoClicks = 0;
     }
-    // Сбрасываем клики через 2 секунды бездействия
     setTimeout(() => { logoClicks = 0; }, 2000);
   }
 
-  // Запуск самой пасхалки
   function triggerEasterEgg() {
-    if (showEasterEgg) return; // Не запускать дважды
+    if (showEasterEgg) return;
     showEasterEgg = true;
 
-    // Ссылка на аудио из локальной папки static/
-    // 1. Звук ачивки (играет первым)
     const achievementSound = new Audio('/achievement.mp3');
     achievementSound.volume = 0.5;
     achievementSound.play().catch(e => console.log('Achievement audio play error:', e));
 
-    // 2. Звук Фумо (проигрываем локальный mp3 4 раза последовательно)
     const fumoSound = new Audio('/fumo-sound.mp3');
     let fumoPlayCount = 0;
     
-    // Функция для циклического проигрывания fumoSound
     const playFumoLoop = () => {
-      if (fumoPlayCount < 4) {
-        fumoSound.currentTime = 0; // Начать с начала
+      if (fumoPlayCount < 2) {
+        fumoSound.currentTime = 0;
         fumoSound.play().catch(e => console.log('Fumo audio play error:', e));
         fumoPlayCount++;
       } else {
-        // Убираем пасхалку через пару секунд после последнего звука
         fumoSound.removeEventListener('ended', playFumoLoop);
-        // Задержка перед скрытием (сама гифка теперь показывается дольше)
-        setTimeout(() => { showEasterEgg = false; }, 8000); 
       }
     };
 
-    // Вешаем слушатель на окончание fumoSound
     fumoSound.addEventListener('ended', playFumoLoop);
 
-    // Небольшая задержка перед звуками Фумо, чтобы звук ачивки успел начаться
     setTimeout(() => {
       playFumoLoop();
-    }, 1000); // Задержка 1 секунда
+    }, 1000);
+
+    setTimeout(() => {
+      showEasterEgg = false;
+      fumoSound.pause();
+    }, 4000);
   }
 </script>
 
+<svelte:head>
+  <title>AquaWise</title>
+  <link rel="icon" type="image/png" href="/logo.png" />
+</svelte:head>
+
 <svelte:body />
-{#if !siteVisible && typeof document !== 'undefined'}
-  <script>document.body.style.overflow = 'hidden';</script>
-{:else if typeof document !== 'undefined'}
-  <script>document.body.style.overflow = '';</script>
-{/if}
 
 {#if showSplash}
   <div class="fixed inset-0 z-[200] flex items-center justify-center overflow-hidden bg-[#070f2b] animate-screen-dissolve pointer-events-none">
@@ -337,7 +333,7 @@
     </div>
   </div>
 
-  <div class="fixed inset-0 z-[250] flex items-center justify-center pointer-events-none overflow-hidden bg-slate-950/20 backdrop-blur-[2px]">
+  <div class="fixed inset-0 z-[250] flex items-center justify-center pointer-events-none overflow-hidden bg-slate-950/20 backdrop-blur-[2px] transition-opacity duration-300">
     <img 
       src="/fumo.gif" 
       alt="Fumo Fumo~" 
@@ -346,7 +342,7 @@
   </div>
 {/if}
 
-<div class="relative z-[100] bg-[#070f2b] font-sans text-slate-300 overflow-x-hidden {siteVisible ? 'min-h-screen' : 'h-[100dvh] overflow-hidden'}">
+<div class="relative z-[100] bg-[#070f2b] font-sans text-slate-300 overflow-x-hidden min-h-screen">
 
   {#if page === 'how-it-works'}
     <div class="min-h-screen p-8 flex flex-col items-center justify-center text-center relative overflow-hidden bg-slate-950">
@@ -359,16 +355,16 @@
         </div>
         <h1 class="text-4xl md:text-5xl font-black mb-10 text-white tracking-tight leading-tight">{t.howItWorksTitle}</h1>
         <div class="grid md:grid-cols-2 gap-4 text-slate-300 text-left mb-12 leading-relaxed text-base md:text-lg">
-          <div class="bg-slate-800/45 p-6 rounded-2xl border border-slate-700/60 shadow-inner hover:border-cyan-500/40 transition-colors duration-500">
+          <div class="bg-slate-800/45 p-6 rounded-2xl border border-slate-700/60 shadow-inner hover:border-cyan-500/40 transition-colors duration-1200 ease-in-out">
             <p class="flex items-start"><CheckCircle class="text-cyan-400 mr-4 mt-1 flex-shrink-0" size={20} /> <span>{t.howItWorksP1}</span></p>
           </div>
-          <div class="bg-slate-800/45 p-6 rounded-2xl border border-slate-700/60 shadow-inner hover:border-cyan-500/40 transition-colors duration-500">
+          <div class="bg-slate-800/45 p-6 rounded-2xl border border-slate-700/60 shadow-inner hover:border-cyan-500/40 transition-colors duration-1200 ease-in-out">
             <p class="flex items-start"><CheckCircle class="text-cyan-400 mr-4 mt-1 flex-shrink-0" size={20} /> <span>{t.howItWorksP2}</span></p>
           </div>
-          <div class="bg-slate-800/45 p-6 rounded-2xl border border-slate-700/60 shadow-inner hover:border-cyan-500/40 transition-colors duration-500">
+          <div class="bg-slate-800/45 p-6 rounded-2xl border border-slate-700/60 shadow-inner hover:border-cyan-500/40 transition-colors duration-1200 ease-in-out">
             <p class="flex items-start"><CheckCircle class="text-cyan-400 mr-4 mt-1 flex-shrink-0" size={20} /> <span>{t.howItWorksP3}</span></p>
           </div>
-          <div class="bg-slate-800/45 p-6 rounded-2xl border border-slate-700/60 shadow-inner hover:border-cyan-500/40 transition-colors duration-500">
+          <div class="bg-slate-800/45 p-6 rounded-2xl border border-slate-700/60 shadow-inner hover:border-cyan-500/40 transition-colors duration-1200 ease-in-out">
             <p class="flex items-start"><CheckCircle class="text-cyan-400 mr-4 mt-1 flex-shrink-0" size={20} /> <span>{t.howItWorksP4}</span></p>
           </div>
         </div>
@@ -388,7 +384,7 @@
           <Bell class="text-cyan-300" size={40} />
         </div>
         <h1 class="text-4xl md:text-5xl font-black text-white tracking-tight mb-6">
-          {lang === 'en' ? 'Product is still in development' : 'То προϊόν είναι ακόμη υπό ανάπτυξη'}
+          {lang === 'en' ? 'Product is still in development' : 'Το προϊόν είναι ακόμη υπό ανάπτυξη'}
         </h1>
         <p class="text-slate-300 text-lg md:text-xl leading-relaxed max-w-2xl mx-auto mb-8">
           {lang === 'en'
@@ -412,7 +408,7 @@
 
   {:else}
     <div class={`fixed top-6 left-0 right-0 z-50 flex justify-center px-4 md:px-6 pointer-events-none transition-all duration-1000 ease-out ${siteVisible ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-10'}`}>
-      <nav class="pointer-events-auto transition-all duration-700 ease-in-out rounded-[28px] border flex justify-between items-center px-6 py-3.5 mx-auto w-full {scrolled ? 'max-w-3xl bg-[#0b1727]/90 backdrop-blur-xl border-white/10 shadow-[0_8px_32px_rgba(0,0,0,0.5)]' : 'max-w-5xl bg-[#070f2b]/40 backdrop-blur-md border-white/5 shadow-lg'}">
+      <nav class="pointer-events-auto transition-all duration-700 ease-in-out rounded-[28px] border flex justify-between items-center px-6 py-3.5 mx-auto w-full {scrolled ? 'max-w-4xl bg-[#0b1727]/90 backdrop-blur-xl border-white/10 shadow-[0_8px_32px_rgba(0,0,0,0.5)]' : 'max-w-6xl bg-[#070f2b]/40 backdrop-blur-md border-white/5 shadow-lg'}">
         
         <a href="/" onclick={handleLogoClick} class="flex items-center space-x-3 transition-transform active:scale-95">
           <img src={ASSETS.logo} alt="AquaWise Logo" class="h-9 w-auto object-contain" />
@@ -471,14 +467,13 @@
               transition: opacity 950ms cubic-bezier(0.16, 1, 0.3, 1) 1400ms,
                           transform 950ms cubic-bezier(0.16, 1, 0.3, 1) 1400ms;
               opacity: ${siteVisible ? 1 : 0};
-              /* Эффект вылета картинки справа */
               transform: translateX(${siteVisible ? 0 : 150}vw) translateY(${Math.max(-50, -scrollDepth * 0.05)}px);
             `}
           >
             <div class="absolute inset-0 bg-cyan-500/5 blur-[120px] rounded-full pointer-events-none"></div>
-            <div class="ice-border bg-slate-900/50 backdrop-blur-2xl rounded-3xl p-3 overflow-hidden shadow-[0_30px_70px_rgba(0,0,0,0.7)] w-full max-w-3xl relative z-10 hover:border-cyan-500/40 transition-colors duration-500">
+            <div class="ice-border bg-slate-900/50 backdrop-blur-2xl rounded-3xl p-3 overflow-hidden shadow-[0_30px_70px_rgba(0,0,0,0.7)] w-full max-w-3xl relative z-10 hover:border-cyan-500/40 transition-all duration-1200 ease-in-out">
               <div class="aspect-[16/10] rounded-2xl overflow-hidden bg-slate-800 shadow-inner">
-                <img src={ASSETS.heroGarden} alt="Garden View" class="w-full h-full object-cover opacity-90 group-hover:scale-105 transition-transform duration-700 ease-out" />
+                <img src={ASSETS.heroGarden} alt="Garden View" class="w-full h-full object-cover opacity-90 group-hover:scale-105 transition-transform duration-1200 ease-in-out" />
               </div>
             </div>
           </div>
@@ -490,11 +485,11 @@
       <section class="py-24 relative z-10 bg-[#070f2b]">
         <div use:reveal={{delay: 100}} class="max-w-5xl mx-auto px-6">
           <div class="animate-float-box">
-            <div class="bg-slate-900 border border-slate-800 p-8 lg:p-12 rounded-[32px] shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_55px_rgba(34,211,238,0.12)] hover:border-cyan-500/40 transition-all duration-500 text-center relative group z-10 hover:z-20">
-              <h2 class="text-4xl md:text-5xl font-black text-white mb-6 tracking-tight leading-tight group-hover:text-cyan-400 transition-colors duration-500">{t.whoWeAreTitle}</h2>
+            <div class="bg-slate-900 border border-slate-800 p-8 lg:p-12 rounded-[32px] shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_55px_rgba(34,211,238,0.12)] hover:border-cyan-500/40 transition-all duration-1200 ease-in-out text-center relative group z-10 hover:z-20">
+              <h2 class="text-4xl md:text-5xl font-black text-white mb-6 tracking-tight leading-tight group-hover:text-cyan-400 transition-colors duration-1200 ease-in-out">{t.whoWeAreTitle}</h2>
               <div class="space-y-6 text-slate-300 leading-relaxed text-base md:text-lg relative z-10 max-w-3xl mx-auto">
                 <p>{t.whoWeAreP1}</p><p>{t.whoWeAreP2}</p><p>{t.whoWeAreP3}</p>
-                <p class="font-bold text-cyan-400 pt-6 tracking-wide text-lg md:text-xl bg-slate-800/35 inline-block px-6 py-2 rounded-full border border-slate-700 mt-4 group-hover:bg-slate-800/45 transition-colors duration-500 gentle-glow">{t.whoWeAreP4}</p>
+                <p class="font-bold text-cyan-400 pt-6 tracking-wide text-lg md:text-xl bg-slate-800/35 inline-block px-6 py-2 rounded-full border border-slate-700 mt-4 group-hover:bg-slate-800/45 transition-colors duration-1200 ease-in-out gentle-glow">{t.whoWeAreP4}</p>
               </div>
             </div>
           </div>
@@ -503,7 +498,7 @@
 
       <section id="about" class="py-20 relative z-10 bg-[#070f2b] border-t border-slate-800/50">
         <div use:reveal={{distance: '80px'}} class="max-w-7xl mx-auto px-6 grid lg:grid-cols-5 gap-12 items-center">
-          <div class="lg:col-span-3 relative w-full max-w-3xl mx-auto aspect-[16/10] rounded-3xl overflow-hidden shadow-[0_25px_60px_rgba(0,0,0,0.4)] hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(34,211,238,0.18)] transition-all duration-500 group ice-border p-2 bg-slate-900/60 backdrop-blur-sm hover:border-cyan-500/50 z-10 hover:z-20">
+          <div class="lg:col-span-3 relative w-full max-w-3xl mx-auto aspect-[16/10] rounded-3xl overflow-hidden shadow-[0_25px_60px_rgba(0,0,0,0.4)] hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(34,211,238,0.18)] transition-all duration-1200 ease-in-out group ice-border p-2 bg-slate-900/60 backdrop-blur-sm hover:border-cyan-500/50 z-10 hover:z-20">
             <div class="w-full h-full rounded-2xl overflow-hidden relative shadow-inner bg-slate-800">
               <div class="absolute inset-0 w-full h-full overflow-hidden">
                 {#key currentSlide}
@@ -543,10 +538,10 @@
         <div class="max-w-5xl mx-auto px-6 relative z-10">
           <div class="showcase-stack">
 
-            <div use:reveal={{distance: '60px', delay: 80}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(59,130,246,0.18)] hover:border-blue-500/40 transition-all duration-500 group flex flex-col justify-center z-10 hover:z-20">
+            <div use:reveal={{distance: '60px', delay: 80}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(59,130,246,0.18)] hover:border-blue-500/40 transition-all duration-1200 ease-in-out group flex flex-col justify-center z-10 hover:z-20">
               <div class="flex items-center space-x-4 mb-6">
-                <div class="p-3.5 bg-blue-500/10 rounded-2xl border border-blue-500/30 group-hover:bg-blue-500/20 transition-colors duration-500"><GlobeIcon class="text-blue-400" size={28} /></div>
-                <h2 class="text-3xl md:text-4xl font-black tracking-tight text-white group-hover:text-blue-400 transition-colors duration-500 leading-tight">{t.journeyTitle}</h2>
+                <div class="p-3.5 bg-blue-500/10 rounded-2xl border border-blue-500/30 group-hover:bg-blue-500/20 transition-colors duration-1200 ease-in-out"><GlobeIcon class="text-blue-400" size={28} /></div>
+                <h2 class="text-3xl md:text-4xl font-black tracking-tight text-white group-hover:text-blue-400 transition-colors duration-1200 ease-in-out leading-tight">{t.journeyTitle}</h2>
               </div>
               <div class="space-y-4 text-slate-300 leading-relaxed text-base">
                 <p>{t.journeyText1}</p>
@@ -554,20 +549,20 @@
               </div>
             </div>
 
-            <div use:reveal={{delay: 160}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(245,158,11,0.15)] hover:border-amber-500/40 transition-all duration-500 group flex flex-col z-10 hover:z-20">
+            <div use:reveal={{delay: 160}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(245,158,11,0.15)] hover:border-amber-500/40 transition-all duration-1200 ease-in-out group flex flex-col z-10 hover:z-20">
               <div class="flex items-center space-x-4 mb-6">
-                <div class="w-12 h-12 bg-amber-500/10 rounded-2xl flex items-center justify-center border border-amber-500/30 group-hover:bg-amber-500/20 transition-colors duration-500"><BookOpen class="w-6 h-6 text-amber-400" /></div>
-                <h2 class="text-3xl md:text-4xl font-black leading-tight tracking-tight text-white group-hover:text-amber-400 transition-colors duration-500">{t.historyCardTitle}</h2>
+                <div class="w-12 h-12 bg-amber-500/10 rounded-2xl flex items-center justify-center border border-amber-500/30 group-hover:bg-amber-500/20 transition-colors duration-1200 ease-in-out"><BookOpen class="w-6 h-6 text-amber-400" /></div>
+                <h2 class="text-3xl md:text-4xl font-black leading-tight tracking-tight text-white group-hover:text-amber-400 transition-colors duration-1200 ease-in-out">{t.historyCardTitle}</h2>
               </div>
               <div class="columns-1 md:columns-2 gap-8 text-sm md:text-base text-slate-300 leading-relaxed space-y-4 bg-slate-800/40 p-6 rounded-2xl border border-slate-700/50">
                 <p>{t.historyCardText}</p>
               </div>
             </div>
 
-            <div use:reveal={{delay: 240}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(16,185,129,0.15)] hover:border-emerald-500/40 transition-all duration-500 group flex flex-col z-10 hover:z-20">
+            <div use:reveal={{delay: 240}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(16,185,129,0.15)] hover:border-emerald-500/40 transition-all duration-1200 ease-in-out group flex flex-col z-10 hover:z-20">
               <div class="flex items-center space-x-4 mb-6">
-                <div class="p-3.5 bg-emerald-500/10 rounded-2xl border border-emerald-500/30 group-hover:bg-emerald-500/20 transition-colors duration-500"><CheckCircle class="text-emerald-400" size={24} /></div>
-                <h2 class="text-2xl md:text-3xl font-black text-white group-hover:text-emerald-400 transition-colors duration-500 tracking-tight">{t.missionTitle}</h2>
+                <div class="p-3.5 bg-emerald-500/10 rounded-2xl border border-emerald-500/30 group-hover:bg-emerald-500/20 transition-colors duration-1200 ease-in-out"><CheckCircle class="text-emerald-400" size={24} /></div>
+                <h2 class="text-2xl md:text-3xl font-black text-white group-hover:text-emerald-400 transition-colors duration-1200 ease-in-out tracking-tight">{t.missionTitle}</h2>
               </div>
               <p class="text-sm md:text-base text-slate-300 leading-relaxed mb-6">{t.missionText}</p>
               <ul class="space-y-3 text-sm md:text-base text-slate-300 bg-slate-800/30 p-5 rounded-2xl border border-slate-700 gentle-glow">
@@ -577,27 +572,27 @@
               </ul>
             </div>
 
-            <div use:reveal={{delay: 320}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(34,211,238,0.15)] hover:border-cyan-500/40 transition-all duration-500 group flex flex-col z-10 hover:z-20">
+            <div use:reveal={{delay: 320}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(34,211,238,0.15)] hover:border-cyan-500/40 transition-all duration-1200 ease-in-out group flex flex-col z-10 hover:z-20">
               <div class="flex items-center space-x-4 mb-6">
-                <div class="p-3.5 bg-cyan-500/10 rounded-2xl border border-cyan-500/30 group-hover:bg-cyan-500/20 transition-colors duration-500"><Droplet class="text-cyan-400" size={24} /></div>
-                <h2 class="text-2xl md:text-3xl font-black text-white group-hover:text-cyan-400 transition-colors duration-500 tracking-tight">{t.inspirationTitle}</h2>
+                <div class="p-3.5 bg-cyan-500/10 rounded-2xl border border-cyan-500/30 group-hover:bg-cyan-500/20 transition-colors duration-1200 ease-in-out"><Droplet class="text-cyan-400" size={24} /></div>
+                <h2 class="text-2xl md:text-3xl font-black text-white group-hover:text-cyan-400 transition-colors duration-1200 ease-in-out tracking-tight">{t.inspirationTitle}</h2>
               </div>
               <div class="text-sm md:text-base text-slate-300 leading-relaxed space-y-4 bg-slate-800/30 p-6 rounded-2xl border border-slate-700 gentle-glow">
                 <p>{t.inspirationText}</p>
-                <img src={ASSETS.logo} alt="AquaWise Logo Large" class="h-14 mx-auto pt-4 group-hover:scale-105 transition-transform duration-500" />
+                <img src={ASSETS.logo} alt="AquaWise Logo Large" class="h-14 mx-auto pt-4 group-hover:scale-105 transition-transform duration-1200 ease-in-out" />
               </div>
             </div>
 
-            <div use:reveal={{delay: 400}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_50px_rgba(34,211,238,0.18)] hover:border-cyan-500/40 transition-all duration-500 grid md:grid-cols-5 gap-8 items-center group z-10 hover:z-20">
+            <div use:reveal={{delay: 400}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_50px_rgba(34,211,238,0.18)] hover:border-cyan-500/40 transition-all duration-1200 ease-in-out grid md:grid-cols-5 gap-8 items-center group z-10 hover:z-20">
               <div class="md:col-span-3 space-y-5">
                 <div class="flex items-center space-x-4 mb-4">
-                  <div class="p-3.5 bg-cyan-500/10 rounded-2xl border border-cyan-500/30 group-hover:bg-cyan-500/20 transition-colors duration-500"><Bell class="text-cyan-400" size={24} /></div>
-                  <h2 class="text-2xl md:text-3xl font-black text-white group-hover:text-cyan-400 transition-colors duration-500 tracking-tight leading-tight">{t.monitoringTitle}</h2>
+                  <div class="p-3.5 bg-cyan-500/10 rounded-2xl border border-cyan-500/30 group-hover:bg-cyan-500/20 transition-colors duration-1200 ease-in-out"><Bell class="text-cyan-400" size={24} /></div>
+                  <h2 class="text-2xl md:text-3xl font-black text-white group-hover:text-cyan-400 transition-colors duration-1200 ease-in-out tracking-tight leading-tight">{t.monitoringTitle}</h2>
                 </div>
                 <p class="text-sm md:text-base text-slate-300 leading-relaxed">{t.monitoringText}</p>
                 <p class="text-sm md:text-base text-slate-300 leading-relaxed bg-slate-800/30 p-5 rounded-2xl border border-slate-700 italic border-l-4 border-l-cyan-400 gentle-glow">{t.monitoringDetails}</p>
               </div>
-              <div class="md:col-span-2 relative h-full min-h-[160px] flex items-center justify-center border-2 border-slate-700/50 rounded-2xl p-4 bg-slate-950/50 group-hover:border-cyan-500/40 transition-colors duration-500">
+              <div class="md:col-span-2 relative h-full min-h-[160px] flex items-center justify-center border-2 border-slate-700/50 rounded-2xl p-4 bg-slate-950/50 group-hover:border-cyan-500/40 transition-colors duration-1200 ease-in-out">
                 <div class="flex items-end gap-2 h-24 w-full max-w-[160px] justify-center overflow-hidden">
                   <div class="w-6 bg-slate-700 rounded-t-md animate-data-bar" style="animation-delay: 0.1s"></div>
                   <div class="w-6 bg-cyan-600 rounded-t-md animate-data-bar" style="animation-delay: 0.3s"></div>
@@ -609,20 +604,20 @@
               </div>
             </div>
 
-            <div use:reveal={{delay: 480}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(59,130,246,0.15)] hover:border-blue-500/40 transition-all duration-500 flex flex-col group relative overflow-hidden z-10 hover:z-20">
+            <div use:reveal={{delay: 480}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(59,130,246,0.15)] hover:border-blue-500/40 transition-all duration-1200 ease-in-out flex flex-col group relative overflow-hidden z-10 hover:z-20">
               <div class="flex items-center space-x-4 mb-6 relative z-10">
-                <div class="p-3.5 bg-blue-500/10 rounded-2xl border border-blue-500/30 group-hover:bg-blue-500/20 transition-colors duration-500"><Camera class="text-blue-400" size={24} /></div>
-                <h2 class="text-2xl md:text-3xl font-black text-white group-hover:text-blue-400 transition-colors duration-500 tracking-tight">{t.about}</h2>
+                <div class="p-3.5 bg-blue-500/10 rounded-2xl border border-blue-500/30 group-hover:bg-blue-500/20 transition-colors duration-1200 ease-in-out"><Camera class="text-blue-400" size={24} /></div>
+                <h2 class="text-2xl md:text-3xl font-black text-white group-hover:text-blue-400 transition-colors duration-1200 ease-in-out tracking-tight">{t.about}</h2>
               </div>
               <div class="text-sm md:text-base text-slate-300 leading-relaxed space-y-4 relative z-10 bg-slate-800/30 p-6 rounded-2xl border border-slate-700 gentle-glow">
                 <p class="text-center">{t.futureText}</p>
               </div>
             </div>
 
-            <div use:reveal={{delay: 560}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(16,185,129,0.15)] hover:border-emerald-500/40 transition-all duration-500 flex flex-col group z-10 hover:z-20">
+            <div use:reveal={{delay: 560}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_45px_rgba(16,185,129,0.15)] hover:border-emerald-500/40 transition-all duration-1200 ease-in-out flex flex-col group z-10 hover:z-20">
               <div class="flex items-center space-x-4 mb-6">
-                <div class="p-3.5 bg-emerald-500/10 rounded-2xl border border-emerald-500/30 group-hover:bg-emerald-500/20 transition-colors duration-500"><FileText class="text-emerald-400" size={24} /></div>
-                <h2 class="text-2xl md:text-3xl font-black text-white group-hover:text-emerald-400 transition-colors duration-500 tracking-tight">Cyprus Final</h2>
+                <div class="p-3.5 bg-emerald-500/10 rounded-2xl border border-emerald-500/30 group-hover:bg-emerald-500/20 transition-colors duration-1200 ease-in-out"><FileText class="text-emerald-400" size={24} /></div>
+                <h2 class="text-2xl md:text-3xl font-black text-white group-hover:text-emerald-400 transition-colors duration-1200 ease-in-out tracking-tight">Cyprus Final</h2>
               </div>
               <div class="text-sm md:text-base text-slate-300 leading-relaxed bg-slate-800/30 p-6 rounded-2xl border border-slate-700 flex-grow flex items-center justify-center relative gentle-glow min-h-[120px]">
                 <Droplet class="text-cyan-400 animate-bounce absolute -top-4 left-1/2 -translate-x-1/2" size={32}/>
@@ -630,10 +625,10 @@
               </div>
             </div>
 
-            <div use:reveal={{delay: 640}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_50px_rgba(99,102,241,0.15)] hover:border-indigo-500/40 transition-all duration-500 group z-10 hover:z-20">
+            <div use:reveal={{delay: 640}} class="showcase-panel bg-slate-900 border border-slate-800 p-6 lg:p-10 rounded-3xl shadow-xl hover:-translate-y-2 hover:scale-[1.02] hover:shadow-[0_0_50px_rgba(99,102,241,0.15)] hover:border-indigo-500/40 transition-all duration-1200 ease-in-out group z-10 hover:z-20">
               <div class="flex items-center space-x-4 mb-6">
-                <div class="p-3.5 bg-indigo-500/10 rounded-2xl border border-indigo-500/30 group-hover:bg-indigo-500/20 transition-colors duration-500"><Users class="text-indigo-400" size={24} /></div>
-                <h2 class="text-2xl md:text-3xl font-black text-white group-hover:text-indigo-400 transition-colors duration-500 tracking-tight leading-tight">{t.partnershipsTitle}</h2>
+                <div class="p-3.5 bg-indigo-500/10 rounded-2xl border border-indigo-500/30 group-hover:bg-indigo-500/20 transition-colors duration-1200 ease-in-out"><Users class="text-indigo-400" size={24} /></div>
+                <h2 class="text-2xl md:text-3xl font-black text-white group-hover:text-indigo-400 transition-colors duration-1200 ease-in-out tracking-tight leading-tight">{t.partnershipsTitle}</h2>
               </div>
               <div class="columns-1 md:columns-2 gap-8 text-sm md:text-base text-slate-300 leading-relaxed bg-slate-800/40 p-6 rounded-2xl border border-slate-700/50">
                 <p>{t.partnershipsText}</p>
@@ -674,23 +669,20 @@
   {/if}
 </div>
 
-<div class="pointer-events-none fixed left-[-8vw] top-0 h-full w-[22vw] z-[1] edge-ambient edge-ambient-left"></div>
-<div class="pointer-events-none fixed right-[-8vw] top-0 h-full w-[22vw] z-[1] edge-ambient edge-ambient-right"></div>
+<div class="pointer-events-none fixed left-[-15vw] lg:left-[-10vw] top-0 h-full w-[35vw] lg:w-[50vw] z-[1] edge-ambient edge-ambient-left"></div>
+<div class="pointer-events-none fixed right-[-15vw] lg:right-[-10vw] top-0 h-full w-[35vw] lg:w-[50vw] z-[1] edge-ambient edge-ambient-right"></div>
 
 <style>
-  /* Глобальное исправление горизонтального скролла */
   :global(html, body) { 
     overflow-x: hidden; 
   }
   
-  /* ИСПРАВЛЕНИЕ БЕЛОГО ЭКРАНА: Жестко задаем темный фон body через CSS */
   :global(body) { 
     background-color: #070f2b !important; 
     color: #e2e8f0;
     margin: 0;
   }
   
-  /* Плавный скролл по якорям */
   :global(html) { scroll-behavior: smooth; }
 
   :global(.ice-border) {
@@ -698,28 +690,24 @@
     box-shadow: 0 0 22px rgba(56, 189, 248, 0.08), inset 0 0 12px rgba(56, 189, 248, 0.04);
   }
 
-  /* Float анимация бокса */
   @keyframes floatBox {
     0%, 100% { transform: translateY(0px); }
     50% { transform: translateY(-12px); }
   }
   :global(.animate-float-box) { animation: floatBox 7s cubic-bezier(0.45, 0, 0.55, 1) infinite; will-change: transform; }
 
-  /* Data bars анимация */
   @keyframes dataBar {
     0%, 100% { height: 20%; opacity: 0.45; }
     50% { height: 100%; opacity: 1; }
   }
   :global(.animate-data-bar) { animation: dataBar 1.8s cubic-bezier(0.45, 0, 0.55, 1) infinite; height: 20%; will-change: height, opacity; }
 
-  /* Gentle glow pulse */
   @keyframes gentleGlow {
     0%, 100% { box-shadow: 0 0 0px rgba(34, 211, 238, 0.0); }
     50% { box-shadow: 0 0 28px rgba(34, 211, 238, 0.09); }
   }
   :global(.gentle-glow) { animation: gentleGlow 6s cubic-bezier(0.45, 0, 0.55, 1) infinite; }
 
-  /* Page flip анимации (эффект перелистывания) */
   @keyframes pageFlipOut {
     0%   { transform: perspective(2200px) rotateX(0deg)  scale(1);      opacity: 1; filter: blur(0px); }
     100% { transform: perspective(2200px) rotateX(7deg)  scale(0.975); opacity: 0; filter: blur(6px); }
@@ -732,7 +720,6 @@
   :global(.page-flip-in)  { animation: pageFlipIn  0.54s cubic-bezier(0.16, 1, 0.3, 1) forwards; transform-origin: center top; backface-visibility: hidden; }
   :global(.animate-page-flip-in) { animation: pageFlipIn 0.64s cubic-bezier(0.16, 1, 0.3, 1) both; transform-origin: center top; will-change: transform, opacity, filter; }
 
-  /* Анимации переворачивания фраз (подзаголовок) */
   @keyframes textFlipOutFast {
     0%   { transform: perspective(1000px) rotateX(0deg);  opacity: 1; }
     100% { transform: perspective(1000px) rotateX(90deg); opacity: 0; }
@@ -755,7 +742,6 @@
   :global(.text-flip-out-slow) { animation: textFlipOutSlow 0.42s cubic-bezier(0.4, 0, 0.2, 1) forwards; backface-visibility: hidden; will-change: transform, opacity, filter; }
   :global(.text-flip-in-slow)  { animation: textFlipInSlow  0.54s cubic-bezier(0.16, 1, 0.3, 1) forwards; backface-visibility: hidden; will-change: transform, opacity, filter; }
 
-  /* Анимация флага в центре */
   @keyframes centerFlagFlash {
     0%   { transform: scale(0.4);  opacity: 0;    filter: blur(24px); }
     40%  { transform: scale(1.15); opacity: 0.5; filter: blur(42px); }
@@ -763,7 +749,6 @@
   }
   :global(.center-flag-anim) { animation: centerFlagFlash 1s cubic-bezier(0.4, 0, 0.2, 1) forwards; will-change: transform, opacity, filter; }
 
-  /* Анимации заставки (Splash) */
   @keyframes aqua-drop-anim {
     0%   { transform: translateY(-100vh) scale(0.8); opacity: 0; }
     28%  { opacity: 1; }
@@ -804,7 +789,6 @@
   }
   :global(.animate-ripple-ring) { opacity: 0; animation: ripple-ring 2.2s cubic-bezier(0.2, 0.8, 0.4, 1) 7.6s forwards; will-change: width, height, opacity; }
 
-  /* Упрощенный эффект растворения заставки */
   @keyframes screen-dissolve-anim {
     0%   { opacity: 1; transform: scale(1);    }
     100% { opacity: 0; transform: scale(1.05); visibility: hidden; }
@@ -821,16 +805,14 @@
     -webkit-backdrop-filter: blur(30px);
   }
 
-  /* CSS для scroll reveal */
   :global(.reveal-hidden) {
     opacity: 0;
     transform: translateY(var(--reveal-distance, 60px));
-    transition: opacity 0.95s cubic-bezier(0.16, 1, 0.3, 1), transform 0.95s cubic-bezier(0.16, 1, 0.3, 1);
+    transition: opacity 1.2s ease-in-out, transform 1.2s ease-in-out;
     will-change: opacity, transform;
   }
   :global(.reveal-visible) { opacity: 1; transform: translateY(0); }
 
-  /* Переходы галереи */
   :global(.gallery-slide-next) { animation: slideInFromRight 270ms cubic-bezier(0.16, 1, 0.3, 1); }
   :global(.gallery-slide-prev) { animation: slideInFromLeft  270ms cubic-bezier(0.16, 1, 0.3, 1); }
 
@@ -843,41 +825,35 @@
     to   { transform: translateX(0)    scale(1);    opacity: 1; }
   }
 
-  /* Фоновые ambient glow эффекты */
   :global(.edge-ambient) {
-    background: radial-gradient(circle at center, rgba(34,197,94,0.15), rgba(34,197,94,0.05) 40%, rgba(34,197,94,0) 70%);
-    opacity: 0.6;
+    background: radial-gradient(circle at center, rgba(34,197,94,0.25), rgba(34,197,94,0.08) 45%, rgba(34,197,94,0) 75%);
+    opacity: 0.7;
     animation: edgePulse 9s cubic-bezier(0.45, 0, 0.55, 1) infinite;
   }
   :global(.edge-ambient-left)  { transform: translateX(-8%); }
   :global(.edge-ambient-right) { transform: translateX(8%); animation-delay: 2s; }
 
   @keyframes edgePulse {
-    0%, 100% { opacity: 0.4; }
-    50%       { opacity: 0.75; }
+    0%, 100% { opacity: 0.5; }
+    50%       { opacity: 0.85; }
   }
 
-  /* Панели showcase в Vision */
   :global(.showcase-stack) { display: grid; grid-template-columns: 1fr; gap: 2.5rem; }
   :global(.showcase-panel) {
     scroll-margin-top: 130px;
-    transition: transform 500ms cubic-bezier(0.16, 1, 0.3, 1), box-shadow 500ms ease, border-color 500ms ease;
+    transition: transform 1.2s ease-in-out, box-shadow 1.2s ease-in-out, border-color 1.2s ease-in-out;
     will-change: transform;
   }
 
-  /* ====================== CSS ДЛЯ ПАСХАЛКИ FUMO ====================== */
-
-  /* Анимация плавного появления и скрытия ачивки */
   @keyframes achievementFade {
-    0% { transform: translateX(120%) translateY(0) scale(0.9); opacity: 0; }
-    5% { transform: translateX(0) translateY(0) scale(1.02); opacity: 1; }
-    8% { transform: translateX(0) translateY(0) scale(1); opacity: 1; }
-    92% { transform: translateX(0) translateY(0) scale(1); opacity: 1; }
-    95% { transform: translateX(0) translateY(10px) scale(1); opacity: 1; }
+    0%   { transform: translateX(120%) translateY(0) scale(0.9); opacity: 0; }
+    10%  { transform: translateX(0) translateY(0) scale(1.02); opacity: 1; }
+    15%  { transform: translateX(0) translateY(0) scale(1); opacity: 1; }
+    85%  { transform: translateX(0) translateY(0) scale(1); opacity: 1; }
+    90%  { transform: translateX(0) translateY(10px) scale(1); opacity: 1; }
     100% { transform: translateX(120%) translateY(0) scale(0.95); opacity: 0; }
   }
   :global(.animate-achievement-fade) {
-    /* Анимация теперь длится дольше, так как гифка статична */
-    animation: achievementFade 13s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+    animation: achievementFade 4.5s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
   }
 </style>
